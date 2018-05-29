@@ -1,0 +1,8 @@
+E:\MyGit\MySocket\MySocket\bin\Debug\MySocket.dll
+E:\MyGit\MySocket\MySocket\bin\Debug\MySocket.pdb
+E:\MyGit\MySocket\MySocket\obj\Debug\MySocket.dll
+E:\MyGit\MySocket\MySocket\obj\Debug\MySocket.pdb
+E:\MyGit\MySocket\MySocket\bin\Debug\Tools.dll
+E:\MyGit\MySocket\MySocket\bin\Debug\Tools.pdb
+E:\MyGit\MySocket\MySocket\obj\Debug\MySocket.csprojResolveAssemblyReference.cache
+E:\MyGit\MySocket\MySocket\bin\Debug\UnityEngine.dll

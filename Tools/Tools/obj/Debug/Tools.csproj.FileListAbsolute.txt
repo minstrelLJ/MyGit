@@ -1,0 +1,7 @@
+E:\MyGit\Tools\Tools\bin\Debug\Tools.dll
+E:\MyGit\Tools\Tools\bin\Debug\Tools.pdb
+E:\MyGit\Tools\Tools\obj\Debug\Tools.dll
+E:\MyGit\Tools\Tools\obj\Debug\Tools.pdb
+E:\MyGit\Tools\Tools\bin\Debug\UnityEngine.dll
+E:\MyGit\Tools\Tools\bin\Debug\UnityEngine.UI.dll
+E:\MyGit\Tools\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache

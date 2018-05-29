@@ -1,0 +1,11 @@
+E:\MyGit\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\MyGit\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\MyGit\GameServer\GameServer\bin\Debug\MySocket.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\Tools.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\UnityEngine.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\MySocket.pdb
+E:\MyGit\GameServer\GameServer\bin\Debug\Tools.pdb
+E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.pdb

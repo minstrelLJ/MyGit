@@ -6,3 +6,4 @@ E:\MyGit\MySocket\MySocket\bin\Debug\Tools.dll
 E:\MyGit\MySocket\MySocket\bin\Debug\Tools.pdb
 E:\MyGit\MySocket\MySocket\obj\Debug\MySocket.csprojResolveAssemblyReference.cache
 E:\MyGit\MySocket\MySocket\bin\Debug\UnityEngine.dll
+E:\MyGit\MySocket\MySocket\bin\Debug\Newtonsoft.Json.dll

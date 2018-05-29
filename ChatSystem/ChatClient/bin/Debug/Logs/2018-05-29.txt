@@ -1,0 +1,6 @@
+﻿16:03:23 [Error]:由于目标计算机积极拒绝，无法连接。 127.0.0.1:9999
+16:03:23 [Error]:服务器连接失败...
+16:05:02 [Debug]:Connect to server 127.0.0.1:9999
+16:05:31 [Debug]:Connect to server 127.0.0.1:9999
+16:07:24 [Debug]:Connect to server 127.0.0.1:9999
+16:07:27 [Debug]:Connect to server 127.0.0.1:9999

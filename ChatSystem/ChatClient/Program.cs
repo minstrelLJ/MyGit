@@ -9,7 +9,7 @@ namespace ChatClient
     {
         static void Main(string[] args)
         {
-            MyLog.InitToConsole();
+            MyLog.Init(LogType.Text);
             Client Socket = new Client();
             Socket.Connect("127.0.0.1", 9999);
             Socket.Receive = (data) =>

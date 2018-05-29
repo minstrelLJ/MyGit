@@ -29,12 +29,13 @@ namespace ChatServer
                     continue;
 
                 server.ClientList[i].SendMessage(userSocket.IPEndPoint + ": " + msg);
+                MyLog.Log(userSocket.IPEndPoint + ": " + msg);
             }
         }
 
         private static void Init()
         {
-            MyLog.InitToConsole();
+            MyLog.Init(LogType.Text);
         }
     }
 }

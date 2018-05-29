@@ -8,3 +8,4 @@ E:\MyGit\ChatSystem\ChatServer\bin\Debug\Tools.pdb
 E:\MyGit\ChatSystem\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
 E:\MyGit\ChatSystem\ChatServer\obj\Debug\ChatServer.exe
 E:\MyGit\ChatSystem\ChatServer\obj\Debug\ChatServer.pdb
+E:\MyGit\ChatSystem\ChatServer\bin\Debug\Newtonsoft.Json.dll

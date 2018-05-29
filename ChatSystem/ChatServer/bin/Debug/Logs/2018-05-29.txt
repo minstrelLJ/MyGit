@@ -1,0 +1,13 @@
+﻿16:04:11 [Debug]:Start listener socket 0.0.0.0:9999 success
+16:05:02 [Debug]:New client 127.0.0.1:31210 accept, Client count 1
+16:05:31 [Debug]:New client 127.0.0.1:31336 accept, Client count 2
+16:06:15 [Debug]:Client disconnected Remote Address: 127.0.0.1:31336. Client count 1
+16:06:17 [Debug]:Client disconnected Remote Address: 127.0.0.1:31210. Client count 0
+16:07:17 [Debug]:Start listener socket 0.0.0.0:9999 success
+16:07:24 [Debug]:New client 127.0.0.1:31814 accept, Client count 1
+16:07:27 [Debug]:New client 127.0.0.1:31828 accept, Client count 2
+16:07:29 [Debug]:127.0.0.1:31828: 22
+16:07:30 [Debug]:127.0.0.1:31828: 33
+16:07:33 [Debug]:127.0.0.1:31814: 111
+16:07:35 [Debug]:127.0.0.1:31814: 11
+16:07:53 [Debug]:Client disconnected Remote Address: 127.0.0.1:31814. Client count 1

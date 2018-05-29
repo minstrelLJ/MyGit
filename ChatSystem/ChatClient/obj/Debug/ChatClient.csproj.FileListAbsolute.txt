@@ -8,3 +8,4 @@ E:\MyGit\ChatSystem\ChatClient\bin\Debug\MySocket.pdb
 E:\MyGit\ChatSystem\ChatClient\bin\Debug\Tools.pdb
 E:\MyGit\ChatSystem\ChatClient\obj\Debug\ChatClient.exe
 E:\MyGit\ChatSystem\ChatClient\obj\Debug\ChatClient.pdb
+E:\MyGit\ChatSystem\ChatClient\bin\Debug\Newtonsoft.Json.dll

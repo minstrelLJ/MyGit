@@ -1,0 +1,20 @@
+﻿2018-05-30 17:31:29 [Debug]:Start listener socket 0.0.0.0:9999 success
+2018-05-30 17:31:40 [Debug]:New client 127.0.0.1:26280 accept, Client count 1
+2018-05-30 17:32:34 [Debug]:Start listener socket 0.0.0.0:9999 success
+2018-05-30 17:32:41 [Debug]:New client 127.0.0.1:26487 accept, Client count 1
+2018-05-30 17:32:41 [Debug]:<---{"cmd":1000,"acc":"test001","pw":"123"}
+2018-05-30 17:32:44 [Debug]:--->{"userId":1001,"roleInfo":{"roleId":1001,"roleName":"机器人1001","level":1,"exp":0,"fixedSTR":10,"fixedDEX":10,"fixedMAG":10,"fixedCON":10,"potentialSTR":2,"potentialDEX":2,"potentialMAG":2,"potentialCON":2},"cmd":1000,"error":0}
+2018-05-30 17:32:44 [Debug]:<---{"cmd":1002,"userId":1001}
+2018-05-30 17:32:44 [Debug]:--->{"cmd":1002,"error":0}
+2018-05-30 17:33:30 [Debug]:Client disconnected Remote Address: 127.0.0.1:26487. Client count 0
+2018-05-30 17:33:35 [Debug]:New client 127.0.0.1:26659 accept, Client count 1
+2018-05-30 17:33:35 [Debug]:<---{"cmd":1000,"acc":"test001","pw":"123"}
+2018-05-30 17:33:35 [Debug]:--->{"userId":1001,"roleInfo":{"roleId":1001,"roleName":"机器人1001","level":1,"exp":0,"fixedSTR":10,"fixedDEX":10,"fixedMAG":10,"fixedCON":10,"potentialSTR":2,"potentialDEX":2,"potentialMAG":2,"potentialCON":2},"cmd":1000,"error":0}
+2018-05-30 17:33:35 [Debug]:<---{"cmd":1002,"userId":1001}
+2018-05-30 17:33:35 [Debug]:--->{"cmd":1002,"error":0}
+2018-05-30 17:33:48 [Debug]:Start listener socket 0.0.0.0:9999 success
+2018-05-30 17:33:55 [Debug]:New client 127.0.0.1:26724 accept, Client count 1
+2018-05-30 17:33:55 [Debug]:<---{"cmd":1000,"acc":"test001","pw":"123"}
+2018-05-30 17:33:55 [Debug]:--->{"userId":1001,"roleInfo":{"roleId":1001,"roleName":"机器人1001","level":1,"exp":0,"fixedSTR":10,"fixedDEX":10,"fixedMAG":10,"fixedCON":10,"potentialSTR":2,"potentialDEX":2,"potentialMAG":2,"potentialCON":2},"cmd":1000,"error":0}
+2018-05-30 17:33:55 [Debug]:<---{"cmd":1002,"userId":1001}
+2018-05-30 17:33:55 [Debug]:--->{"cmd":1002,"error":0}

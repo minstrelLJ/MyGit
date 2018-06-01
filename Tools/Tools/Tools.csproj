@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\FileIO.cs" />
+    <Compile Include="Common\JSONObject.cs" />
     <Compile Include="Common\MyLog.cs" />
     <Compile Include="Common\Singleton.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

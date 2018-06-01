@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>Lib\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,11 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Manager\NetWorkManager.cs" />
+    <Compile Include="Data\ConfigManager.cs" />
+    <Compile Include="Data\DataManager.cs" />
+    <Compile Include="Data\UserInfo.cs" />
+    <Compile Include="MySQL\CreateTableElement.cs" />
+    <Compile Include="MySQL\MySqlHelper.cs" />
+    <Compile Include="MySQL\MySqlTemplate.cs" />
+    <Compile Include="MySQL\Tool.cs" />
+    <Compile Include="NetWork\DataPacket.cs" />
+    <Compile Include="NetWork\DataPacketPool.cs" />
+    <Compile Include="NetWork\NetWorkManager.cs" />
+    <Compile Include="NetWork\ParseCMD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Data\Data.csproj">
+      <Project>{b4f4fb8d-cd02-4725-a59a-bfdab850036b}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\MySocket\MySocket\MySocket.csproj">
       <Project>{7f4a0cb8-810e-4144-a9e9-624666b7262e}</Project>
       <Name>MySocket</Name>

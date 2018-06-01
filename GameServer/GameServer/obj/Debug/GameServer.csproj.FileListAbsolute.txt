@@ -9,3 +9,6 @@ E:\MyGit\GameServer\GameServer\bin\Debug\Tools.pdb
 E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
 E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.exe
 E:\MyGit\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\MyGit\GameServer\GameServer\bin\Debug\Data.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\MySql.Data.dll
+E:\MyGit\GameServer\GameServer\bin\Debug\Data.pdb

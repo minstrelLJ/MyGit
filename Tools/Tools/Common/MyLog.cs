@@ -76,8 +76,7 @@ namespace Tools
                 case LogLevel.Error: if (Console.ForegroundColor != ConsoleColor.Red) Console.ForegroundColor = ConsoleColor.Red; break;
             }
 
-            string msg = string.Format(format, args);
-            Console.WriteLine(msg);
+            Console.WriteLine(format, args);
         }
 
         #endregion ConsoleLog
@@ -85,6 +84,7 @@ namespace Tools
 
         private static void TextDebug(string format, params object[] args)
         {
+            ConsoleLog(format, args);
             Set2Text(LogLevel.Debug, "[Debug]:" + format, args);
         }
         private static void TextWarning(string format, params object[] args)
@@ -106,7 +106,7 @@ namespace Tools
                 Directory.CreateDirectory(FileDirectory);
 
             string fileName = DateTime.Now.ToString("yyyy-MM-dd") + ".txt";
-            FileIO.AddText(FileDirectory + "/" + fileName, DateTime.Now.ToString("HH:mm:ss ") + msg);
+            FileIO.AddText(FileDirectory + "/" + fileName, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss ") + msg);
         }
 
         #endregion Text

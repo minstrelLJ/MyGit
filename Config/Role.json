@@ -1,0 +1,16 @@
+﻿[
+  {
+    "roleId": 1000,
+    "roleName": "新角色",
+    "level": 1,
+    "exp": 0,
+    "STR": 10.0,
+    "DEX": 10.0,
+    "ING": 10.0,
+    "CON": 10.0,
+    "PotentialSTR": 2.0,
+    "potentialDEX": 2.0,
+    "potentialINT": 2.0,
+    "potentialCON": 2.0
+  }
+]

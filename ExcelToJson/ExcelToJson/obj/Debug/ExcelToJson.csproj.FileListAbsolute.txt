@@ -1,0 +1,8 @@
+E:\GitPro\ExcelToJson\ExcelToJson\bin\Debug\ExcelToJson.exe
+E:\GitPro\ExcelToJson\ExcelToJson\bin\Debug\ExcelToJson.pdb
+E:\GitPro\ExcelToJson\ExcelToJson\bin\Debug\Excel.dll
+E:\GitPro\ExcelToJson\ExcelToJson\bin\Debug\Newtonsoft.Json.dll
+E:\GitPro\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.exe
+E:\GitPro\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.pdb
+E:\GitPro\ExcelToJson\ExcelToJson\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GitPro\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.csprojResolveAssemblyReference.cache
